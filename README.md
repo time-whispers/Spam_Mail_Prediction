@@ -28,4 +28,4 @@ I have chosen this project because nowadays there are lots of people trying to f
 4. Spam can crash mail servers and fill up hard drive.
 5. Billions of dollars lost worldwide.
 
-To understand how this Spam Mail Prediction works just open the Jupyter Notebook, there I have mentioned step by step guide
+To answer these kindly view the Spam Mail Prediction Jupyter Notebook, there I have mentioned step by step guide.

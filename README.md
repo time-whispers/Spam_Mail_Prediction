@@ -1,4 +1,4 @@
-# Spam_Mail_Prediction
+# Spam Mail Prediction
 
 Emails are important because they creates a fast, reliable form of communication that is free and easily accessible. They allow people to foster long-lasting, long-distance communication . Spam e-mails can be not only annoying but also dangerous to customers.Spam e-mails can be defined as
 

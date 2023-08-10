@@ -12,11 +12,11 @@ Spam e-mail messages are randomly sent to multiple addresses by all sort of grou
 
 Spam Email:
 
-![image](https://github.com/time-whispers/Spam_Mail_Prediction/assets/102413182/f8e8bce1-2860-40d8-b7e5-e91c6c67edd8)
+![89771780-81b75900-db1e-11ea-821e-0417de87b936](https://github.com/time-whispers/Spam_Mail_Prediction/assets/102413182/da992891-873d-47bf-8a56-2c4b68b9858d)
 
 Normal(ham) Email:
 
-![image](https://github.com/time-whispers/Spam_Mail_Prediction/assets/102413182/ac13ee77-5d05-4fe6-beda-75dd9acb19cd)
+![89772081-073b0900-db1f-11ea-920d-6aed6553a5ee](https://github.com/time-whispers/Spam_Mail_Prediction/assets/102413182/690c2a2c-8773-49e9-a387-6090f39f4030)
 
 
 ## PROBLEM STATEMENT
